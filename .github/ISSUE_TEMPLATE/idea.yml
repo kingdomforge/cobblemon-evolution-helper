@@ -1,0 +1,11 @@
+name: Idea
+description: Share an idea for Cobblemon Evolution Helper.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What would you like the mod to show or do?
+    validations:
+      required: true
